@@ -10,7 +10,6 @@ print('Initialising...', end=' ')
 from sys import exit
 from os import listdir, path, mkdir
 from scipy.io import wavfile
-from scipy import fft
 from numpy import array, transpose, sqrt, mean, square
 from scipy.signal import fftconvolve as conv
 
