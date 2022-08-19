@@ -2,7 +2,7 @@
 Multi-Channel Deconvolution V1.1
 
 ### Download
-See /dist for the latest compiled version (V1.1)   
+See /dist for the latest compiled version (V1.0)   
 *Currently only compiled for macOS*  
 
 ### Usage
