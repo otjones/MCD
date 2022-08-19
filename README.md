@@ -10,6 +10,5 @@ This tool searches through a specified folder for all .wav files and performs a 
 
 The tool creates an output folder in the specified folder, and creates a folder for each .wav file, copying its name, where each impulse response is saved for each channel of that .wav file
 
-### Planned updates for V1.1
-- Impluses from different channels within one recording will be amplitude adjusted to be accurate relative to eachother, rather than normalised to peak 0dB
-- Trimming of deadspace before impulse to be investigated
+### Planned updates for V1.2
+- Automated track splitting
