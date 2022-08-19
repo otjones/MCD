@@ -1,8 +1,8 @@
 # MCD
-Multi-Channel Deconvolution V1.0
+Multi-Channel Deconvolution V1.1
 
 ### Download
-See /dist for the latest compiled version  
+See /dist for the latest compiled version (V1.1)   
 *Currently only compiled for macOS*  
 
 ### Usage
