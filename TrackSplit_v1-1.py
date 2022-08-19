@@ -95,6 +95,11 @@ else:
         sample_start = sample_start_global + ( clip * interval * recFs ) - ( buffer * recFs )
         sample_end = sample_start + ( length * recFs ) + 2*( buffer * recFs )
 
+        if sample_start < 0:
+            sample_start = 0
+        else:
+            pass
+
         trimmed = rec[sample_start:sample_end,:]
         
         wavfile.write(path.join(out_path, (f'source_{clip}.wav')), recFs, trimmed)

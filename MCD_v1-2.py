@@ -10,9 +10,8 @@ print('Initialising...', end=' ')
 from sys import exit
 from os import listdir, path, mkdir
 from scipy.io import wavfile
-from numpy import array, transpose, sqrt, mean, square, pad, append, power, ones, convolve
+from numpy import array, transpose, sqrt, pad, append, power, ones, convolve
 from scipy.signal import fftconvolve as conv
-from matplotlib import pyplot as plt
 
 print('done')
 print('')
