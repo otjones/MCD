@@ -1,5 +1,5 @@
 # MCD
-Multi-Channel Deconvolution V1.1
+Multi-Channel Deconvolution V1.2
 
 ### Download
 See /dist for the latest compiled version  
