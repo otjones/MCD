@@ -2,7 +2,7 @@
 
 print('')
 print('-------------------------------')
-print('Multi-Channel Deconvolver V 1.0')
+print('Multi-Channel Deconvolver V 1.1')
 print('-------------------------------')
 print('')
 print('Initialising...', end=' ')
